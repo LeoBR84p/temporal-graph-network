@@ -1,0 +1,21 @@
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# dados/artefatos pesados (não versionar)
+data/
+output/
+runs/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# segredos
+.env
+*.key
+*.pem
+*.tok
