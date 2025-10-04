@@ -1,4 +1,4 @@
-# <img width="512" height="512" alt="17595945521889191731109800197427" src="https://github.com/user-attachments/assets/b3fe2b98-f233-4ee0-80ce-d7992e05b293" />
+# <img width="50" height="50" src="https://github.com/user-attachments/assets/b3fe2b98-f233-4ee0-80ce-d7992e05b293" />
 temporal-graph-network
 Implementação de Redes de Graphos Temporais para análise de anomalias
 
