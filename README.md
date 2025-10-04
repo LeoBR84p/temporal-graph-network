@@ -1,4 +1,4 @@
-# <img width="40" height="40" src="https://github.com/user-attachments/assets/b3fe2b98-f233-4ee0-80ce-d7992e05b293" /> Temporal Graph Network
+# <img width="30" height="30" src="https://github.com/user-attachments/assets/b3fe2b98-f233-4ee0-80ce-d7992e05b293" /> Temporal Graph Network
 Implementação de Redes de Graphos Temporais para análise de anomalias
 
 ## 🧾 License
