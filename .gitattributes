@@ -1,4 +1,3 @@
+# notebooks sem outputs ao commitar
 *.ipynb filter=nbstripout
-
-*.zpln filter=nbstripout
 *.ipynb diff=ipynb
